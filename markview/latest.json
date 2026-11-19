@@ -1,5 +1,5 @@
 {
-  "version": "0.2.2",
-  "notes": "밖에서 바뀐 문서를 놓치던 문제 수정 · 다이어그램 확대/축소",
-  "url": "https://github.com/larangms-dev/apps/releases/tag/markview-v0.2.2"
+  "version": "0.2.3",
+  "notes": "편집 창 멀티커서 · 서식 단축키 · 한국어 찾기 판",
+  "url": "https://github.com/larangms-dev/apps/releases/tag/markview-v0.2.3"
 }
